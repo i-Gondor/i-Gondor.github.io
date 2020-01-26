@@ -18,7 +18,7 @@ body {
 }
 
 h1{
-    font-size:calc(4px + 5vmin);
+    font-size:calc(15vmin - 2px);
     font-weight: 200;
     white-space: nowrap;
     font-family: 'Courier New', monospace, monospace;
@@ -27,12 +27,12 @@ h1{
 
 p{
     color: #373D3F;
-    font-size: calc(14px + 2vmin);  
+    font-size: calc(1px + 4vmin);  
     font-weight: 300;
     white-space: nowrap;
     margin: 0vw;
     padding: 0vw;
-    font-family: 'Courier New', monospace, monospace;
+    font-family: 'Fira Code','Courier New', monospace, monospace;
     text-align: center;
 }
 
