@@ -1,6 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Send IT Technology | Jesse Baber | DevOps Engineering",
+    "short_name": "Send IT Technology DevOps Engineering",
+    "description": "Senior DevOps Engineering Consultancy based in Berlin, Germany and Bristol, UK.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
