@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     padding: 0;
 }
-h1,h2{
+h1,h2,h3{
     font-family: 'Courier New', monospace, monospace;
     font-weight: 100;
     margin: 1vw;
@@ -25,6 +25,9 @@ h1{
 }
 h2{
     font-size:calc(7vmin - 2px);
+}
+h3{
+    font-size:calc(4vmin - 2px);
 }
 p{
     color: #373D3F;
