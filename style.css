@@ -15,7 +15,7 @@ body {
     padding: 0;
 }
 h1,h2,h3{
-    font-family: 'Courier New', monospace, monospace;
+    font-family: 'Fira Code', 'Courier New', monospace, monospace;
     font-weight: 100;
     margin: 1vw;
     white-space: nowrap;
